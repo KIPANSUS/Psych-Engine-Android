@@ -1,0 +1,11 @@
+{
+	
+	"image": "tankugh",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "tankugh",
+	"confirm_anim": "tankugh"
+}
